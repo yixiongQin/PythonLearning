@@ -50,3 +50,5 @@ print(course.replace('P', 'J')) # output: `Jython for Beginners`
 print('Python' in course) # output: True. a boolean function
 
 # len(), upper(), lower(), title(), find(), replace(), in
+
+
