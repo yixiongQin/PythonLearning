@@ -1,4 +1,5 @@
 # pycharm
 .idea/*
 .idea
-/.idea/
+/.idea/*
+
